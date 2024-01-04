@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[744],{2856:a=>{a.exports=JSON.parse('{"label":"Java","permalink":"/what_i_konw/tags/java","allTagsPath":"/what_i_konw/tags","count":1,"items":[{"id":"\u540e\u7aef/Java","title":"Java","description":"<TOCInline","permalink":"/what_i_konw/\u540e\u7aef/Java"}]}')}}]);
